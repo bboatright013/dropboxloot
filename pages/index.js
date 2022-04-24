@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi! My name is Brandon and welcome to dropbooxloot.com</p>
+        <p>Welcome to dropbooxloot.com</p>
         <p>
           <Link href="/posts/first-post">Intro</Link>
         </p>
